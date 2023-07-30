@@ -1,2 +1,1 @@
-# recipes
-TOP Recipes Exercise
+The Odin Project Recipes Exercise.
